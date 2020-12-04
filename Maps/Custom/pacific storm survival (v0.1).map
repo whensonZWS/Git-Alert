@@ -6652,7 +6652,7 @@ YURITRI178-G=yes
 01000031=1,19,7,GirlLaugh,0,0,0,0,A
 
 [Basic]
-Name=Pacific Storm Survival
+Name=Pacific Storm Survival (Git)
 Percent=0
 GameMode=standard,Tech Share
 HomeCell=98
