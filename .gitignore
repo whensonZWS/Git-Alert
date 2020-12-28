@@ -14,7 +14,6 @@ expandmo95.mix
 expandmo96.mix
 expandmo97.mix
 expandmo99.mix
-INI/BattleClient.ini
 INI/Game Options/Allies Allowed.ini
 INI/Game Options/ConYard Start.ini
 INI/Game Options/Free Radar.ini
@@ -45,7 +44,6 @@ INI/Map Code/Standard.ini
 INI/Map Code/Tech Share.ini
 INI/Map Code/Ultimate Alliance.ini
 INI/Map Code/Unholy Alliance.ini
-INI/MentalOmegaMaps.ini
 Map Editor/FA2Ext.dll
 Map Editor/FA2Ext.dll.inj
 Map Editor/fa2mo.dat
@@ -1578,3 +1576,279 @@ version
 thememo.mix
 Client/client.log
 Client/friend_list
+Client/tunnel_cache
+cncnet5mo.dll
+INI/Game Options/Nerf Eights.ini
+INI/Game Options/No Garrisons.ini
+INI/Game Options/OreDouble.ini
+INI/Game Options/OreGrowth.ini
+INI/Game Options/OreSpread.ini
+INI/Game Options/OreStandard.ini
+INI/Game Options/SWAll.ini
+INI/Game Options/SWMinor.ini
+INI/Game Options/SWNone.ini
+INI/Game Options/TDAll.ini
+INI/Game Options/TDBunkers.ini
+INI/Game Options/TDNone.ini
+INI/Map Code/No Defenses.ini
+INI/Map Code/No Rush.ini
+INI/Map Code/Tournament 1v1.ini
+INI/Map Code/Tournament 2v2.ini
+MapsMO/Challenge/c_aberration.map
+MapsMO/Challenge/c_aberration.png
+MapsMO/Challenge/c_gladiator.map
+MapsMO/Challenge/c_gladiator.png
+MapsMO/Challenge/c_ironwall.map
+MapsMO/Challenge/c_ironwall.png
+MapsMO/Challenge/c_judgement.map
+MapsMO/Challenge/c_judgement.png
+MapsMO/Standard/amazonaschi.map
+MapsMO/Standard/amazonaschi.png
+MapsMO/Standard/amazonasiota.map
+MapsMO/Standard/amazonasiota.png
+MapsMO/Standard/amazonastheta.map
+MapsMO/Standard/amazonastheta.png
+MapsMO/Standard/angelisland.map
+MapsMO/Standard/angelisland.png
+MapsMO/Standard/ashestoashes.map
+MapsMO/Standard/ashestoashes.png
+MapsMO/Standard/bakedalaska.map
+MapsMO/Standard/bakedalaska.png
+MapsMO/Standard/belowzero.map
+MapsMO/Standard/belowzero.png
+MapsMO/Standard/bifoldretreat.map
+MapsMO/Standard/bifoldretreat.png
+MapsMO/Standard/billymiddletwins.map
+MapsMO/Standard/billymiddletwins.png
+MapsMO/Standard/billymiddlewins.map
+MapsMO/Standard/billymiddlewins.png
+MapsMO/Standard/billysfullhouse.map
+MapsMO/Standard/billysfullhouse.png
+MapsMO/Standard/bloodiestfeud.map
+MapsMO/Standard/bloodiestfeud.png
+MapsMO/Standard/bluffreflection.map
+MapsMO/Standard/bluffreflection.png
+MapsMO/Standard/boilingpoint.map
+MapsMO/Standard/boilingpoint.png
+MapsMO/Standard/bonecrusher.map
+MapsMO/Standard/bonecrusher.png
+MapsMO/Standard/borderorder.map
+MapsMO/Standard/borderorder.png
+MapsMO/Standard/cityescape.map
+MapsMO/Standard/cityescape.png
+MapsMO/Standard/civichustling.map
+MapsMO/Standard/civichustling.png
+MapsMO/Standard/crystalmooncake.map
+MapsMO/Standard/crystalmooncake.png
+MapsMO/Standard/dangerousdays.map
+MapsMO/Standard/dangerousdays.png
+MapsMO/Standard/dantesinferno.map
+MapsMO/Standard/dantesinferno.png
+MapsMO/Standard/dawnofdune.map
+MapsMO/Standard/dawnofdune.png
+MapsMO/Standard/desertdescent.map
+MapsMO/Standard/desertdescent.png
+MapsMO/Standard/dontmockthecroc.map
+MapsMO/Standard/dontmockthecroc.png
+MapsMO/Standard/dusktilldawn.map
+MapsMO/Standard/dusktilldawn.png
+MapsMO/Standard/dustgarden.map
+MapsMO/Standard/dustgarden.png
+MapsMO/Standard/dustymesa.map
+MapsMO/Standard/dustymesa.png
+MapsMO/Standard/dutchhighlands.map
+MapsMO/Standard/dutchhighlands.png
+MapsMO/Standard/einsteinsfate.map
+MapsMO/Standard/einsteinsfate.png
+MapsMO/Standard/einsteinsgate.map
+MapsMO/Standard/einsteinsgate.png
+MapsMO/Standard/enclosure.map
+MapsMO/Standard/enclosure.png
+MapsMO/Standard/enormous.map
+MapsMO/Standard/enormous.png
+MapsMO/Standard/evictionnotice.map
+MapsMO/Standard/evictionnotice.png
+MapsMO/Standard/f_unjustrising.map
+MapsMO/Standard/f_unjustrising.png
+MapsMO/Standard/f_verityhold.map
+MapsMO/Standard/f_verityhold.png
+MapsMO/Standard/fallenempire.map
+MapsMO/Standard/fallenempire.png
+MapsMO/Standard/floralfury.map
+MapsMO/Standard/floralfury.png
+MapsMO/Standard/futureavenue.map
+MapsMO/Standard/futureavenue.png
+MapsMO/Standard/goldexperience.map
+MapsMO/Standard/goldexperience.png
+MapsMO/Standard/grimdark.map
+MapsMO/Standard/grimdark.png
+MapsMO/Standard/honeypot.map
+MapsMO/Standard/honeypot.png
+MapsMO/Standard/hypergate.map
+MapsMO/Standard/hypergate.png
+MapsMO/Standard/i_canyondefrost.map
+MapsMO/Standard/i_canyondefrost.png
+MapsMO/Standard/i_devilstriangle.map
+MapsMO/Standard/i_devilstriangle.png
+MapsMO/Standard/i_spookywaters.map
+MapsMO/Standard/i_spookywaters.png
+MapsMO/Standard/icebox.map
+MapsMO/Standard/icebox.png
+MapsMO/Standard/inlimbo.map
+MapsMO/Standard/inlimbo.png
+MapsMO/Standard/inspittingdistance.map
+MapsMO/Standard/inspittingdistance.png
+MapsMO/Standard/kingsroad.map
+MapsMO/Standard/kingsroad.png
+MapsMO/Standard/knockdownmega.map
+MapsMO/Standard/knockdownmega.png
+MapsMO/Standard/krakenhaven.map
+MapsMO/Standard/krakenhaven.png
+MapsMO/Standard/lakewise.map
+MapsMO/Standard/lakewise.png
+MapsMO/Standard/letthemeatwar.map
+MapsMO/Standard/letthemeatwar.png
+MapsMO/Standard/livingdeathgirl.map
+MapsMO/Standard/livingdeathgirl.png
+MapsMO/Standard/lostinside.map
+MapsMO/Standard/lostinside.png
+MapsMO/Standard/metromidway.map
+MapsMO/Standard/metromidway.png
+MapsMO/Standard/modernwharfare.map
+MapsMO/Standard/modernwharfare.png
+MapsMO/Standard/modernwharfare_too.map
+MapsMO/Standard/modernwharfare_too.png
+MapsMO/Standard/nitrofueled.map
+MapsMO/Standard/nitrofueled.png
+MapsMO/Standard/octagonymega.map
+MapsMO/Standard/octagonymega.png
+MapsMO/Standard/oingoboingo.map
+MapsMO/Standard/oingoboingo.png
+MapsMO/Standard/p_oilinthecenter.map
+MapsMO/Standard/p_oilinthecenter.png
+MapsMO/Standard/pacman.map
+MapsMO/Standard/pacman.png
+MapsMO/Standard/permafrostmega.map
+MapsMO/Standard/permafrostmega.png
+MapsMO/Standard/pointyend.map
+MapsMO/Standard/pointyend.png
+MapsMO/Standard/quicksand.map
+MapsMO/Standard/quicksand.png
+MapsMO/Standard/quietmesa.map
+MapsMO/Standard/quietmesa.png
+MapsMO/Standard/quinarybarrage.map
+MapsMO/Standard/quinarybarrage.png
+MapsMO/Standard/racebase.map
+MapsMO/Standard/racebase.png
+MapsMO/Standard/ravenspass.map
+MapsMO/Standard/ravenspass.png
+MapsMO/Standard/ravensravine.map
+MapsMO/Standard/ravensravine.png
+MapsMO/Standard/redsunlagoon.map
+MapsMO/Standard/redsunlagoon.png
+MapsMO/Standard/replica.map
+MapsMO/Standard/replica.png
+MapsMO/Standard/ripper.map
+MapsMO/Standard/ripper.png
+MapsMO/Standard/rockofegypt.map
+MapsMO/Standard/rockofegypt.png
+MapsMO/Standard/roguenation.map
+MapsMO/Standard/roguenation.png
+MapsMO/Standard/roundhouseredux.map
+MapsMO/Standard/roundhouseredux.png
+MapsMO/Standard/sandspring.map
+MapsMO/Standard/sandspring.png
+MapsMO/Standard/sekigahara.map
+MapsMO/Standard/sekigahara.png
+MapsMO/Standard/setondestruction.map
+MapsMO/Standard/setondestruction.png
+MapsMO/Standard/shroudedcanyon.map
+MapsMO/Standard/shroudedcanyon.png
+MapsMO/Standard/shroudedcity.map
+MapsMO/Standard/shroudedcity.png
+MapsMO/Standard/sierracleave.map
+MapsMO/Standard/sierracleave.png
+MapsMO/Standard/simple.map
+MapsMO/Standard/simple.png
+MapsMO/Standard/sixassist.map
+MapsMO/Standard/sixassist.png
+MapsMO/Standard/snowmelt.map
+MapsMO/Standard/snowmelt.png
+MapsMO/Standard/snowpiercer.map
+MapsMO/Standard/snowpiercer.png
+MapsMO/Standard/solesummit.map
+MapsMO/Standard/solesummit.png
+MapsMO/Standard/southwestcay.map
+MapsMO/Standard/southwestcay.png
+MapsMO/Standard/stormyweathertwo.map
+MapsMO/Standard/stormyweathertwo.png
+MapsMO/Standard/tigerbay.map
+MapsMO/Standard/tigerbay.png
+MapsMO/Standard/tournamentgarden.map
+MapsMO/Standard/tournamentgarden.png
+MapsMO/Standard/tournamentspire.map
+MapsMO/Standard/tournamentspire.png
+MapsMO/Standard/tournamenttowertwo.map
+MapsMO/Standard/tournamenttowertwo.png
+MapsMO/Standard/townblitz.map
+MapsMO/Standard/townblitz.png
+MapsMO/Standard/twilightheat.map
+MapsMO/Standard/twilightheat.png
+MapsMO/Standard/underneath.map
+MapsMO/Standard/underneath.png
+MapsMO/Standard/vectorvalley.map
+MapsMO/Standard/vectorvalley.png
+MapsMO/Standard/victim.map
+MapsMO/Standard/victim.png
+MapsMO/Standard/vulkan.map
+MapsMO/Standard/vulkan.png
+MapsMO/Standard/whiplash.map
+MapsMO/Standard/whiplash.png
+MapsMO/Standard/wildfiresteppes.map
+MapsMO/Standard/wildfiresteppes.png
+MapsMO/Standard/zenbazaar.map
+MapsMO/Standard/zenbazaar.png
+MapsMO/Standard/zencellar.map
+MapsMO/Standard/zencellar.png
+Resources/Any Alliesicon.png
+Resources/Any Epsilonicon.png
+Resources/Any Foehnicon.png
+Resources/Any Sovietsicon.png
+Resources/Binaries/DiscordRPC.dll
+Resources/Binaries/Newtonsoft.Json.dll
+Resources/Binaries/OpenGL/libopenal.1.dylib
+Resources/Binaries/OpenGL/libSDL2-2.0.0.dylib
+Resources/Binaries/OpenGL/x64/libopenal.so.1
+Resources/Binaries/OpenGL/x64/libSDL2-2.0.so.0
+Resources/Binaries/OpenGL/x64/SDL2.dll
+Resources/Binaries/OpenGL/x64/soft_oal.dll
+Resources/Binaries/OpenGL/x86/libopenal.so.1
+Resources/Binaries/OpenGL/x86/libSDL2-2.0.so.0
+Resources/Binaries/OpenGL/x86/SDL2.dll
+Resources/Binaries/OpenGL/x86/soft_oal.dll
+Resources/cnc-ddraw.dll
+Resources/cnc-ddraw.ini
+Resources/ddraw-auto.ini
+Resources/ddraw-gdi.ini
+Resources/FHCConfig.ini
+Resources/friendicon.png
+Resources/ignoreicon.png
+Resources/menu_dc.png
+Resources/ping0.png
+Resources/ping1.png
+Resources/ping2.png
+Resources/ping3.png
+Resources/ping4.png
+Resources/PrivacyNotification.ini
+Resources/return.wav
+Resources/thememo.ini
+Resources/Tutorialicon.png
+*.log
+ddraw.dll
+KeyboardMD.ini
+spawn.ini
+spawnmap.ini
+stats.dmp
+Client/dscore.dat
+Client/SkirmishSettings.ini
+ddraw.ini
