@@ -1852,3 +1852,5 @@ stats.dmp
 Client/dscore.dat
 Client/SkirmishSettings.ini
 ddraw.ini
+Saved Games/AINSOMNIA.sav
+*.SAV
