@@ -1,0 +1,23 @@
+Catalogue:
+	Allied:
+		Support Power:
+			Target Lock
+			Mercury Strike
+			Lightning Rod
+			Force Shield
+			Zephyr Beacon
+			Hunter Seeker
+		
+		Super Weapon:
+			Lightning Storm
+			Cryo Freeze
+			Chrono Vortex
+			
+		Units:
+			Child of Storm
+			Harrier
+			Black Eagle
+			
+	
+	
+			
