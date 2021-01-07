@@ -2,7 +2,7 @@ Standard.ini
 base code.ini
 -demo
 
-.\Tweak Module\tengu.ini
+.\Custom Units\super battleship.ini
 
 -o
 Test Mode.ini
