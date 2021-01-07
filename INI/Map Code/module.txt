@@ -1,12 +1,8 @@
 Standard.ini
 base code.ini
 -demo
-.\Tweak Module\lightning rod.ini
-.\Tweak Module\mercury strike.ini
-.\Tweak Module\force shield.ini
-.\Tweak Module\zephyrobot.ini
-.\Tweak Module\hunter seeker.ini
-.\Tweak Module\target lock.ini
+
+.\Tweak Module\tengu.ini
 
 -o
 Test Mode.ini

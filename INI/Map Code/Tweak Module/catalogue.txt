@@ -7,6 +7,7 @@ Catalogue:
 			Force Shield
 			Zephyr Beacon
 			Hunter Seeker
+			
 		
 		Super Weapon:
 			Lightning Storm
@@ -17,6 +18,26 @@ Catalogue:
 			Child of Storm
 			Harrier
 			Black Eagle
+			
+			
+	Soviet:
+		Support Power:
+			Instant Shelter
+			Drakuv
+			Repair Drone
+			Tank Drop
+			Terror Drop
+			Overcharge
+			Smoke Bomb
+			Flame Tower
+			Bike Ambush
+			Wallbuster
+			Irradiation
+			EMP Station
+			Gear Overcharge
+			
+		Units:
+			foxtrot
 			
 	
 	
