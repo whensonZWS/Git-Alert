@@ -139,9 +139,8 @@ def parse_arg(L):
 	
 	with open(overwrite,'w') as out_file:
 		base.write(out_file,space_around_delimiters = False)
-			
-if __name__ == '__main__':
-	def file_set(filename):
+		
+def file_set(filename):
 		with open(filename,'r') as input:
 			arr = []
 			line = input.readline()
@@ -150,6 +149,8 @@ if __name__ == '__main__':
 					arr.append(line.strip())
 				line = input.readline()
 			parse_arg(arr)
+			
+if __name__ == '__main__':
 			
 	if len(sys.argv) == 1:
 		file_list = os.listdir()
