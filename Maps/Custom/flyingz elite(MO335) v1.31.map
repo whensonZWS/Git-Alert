@@ -8742,13 +8742,13 @@ DamageAirThreshold=-1
 1=ukeKGsHjim3RoH2S26IFqpmy/mk=
 
 
-[ARMR]
-Prerequisite=BARRACKS
-Owner=USSR,Latin,Chinese,PsiCorps,Headquaters,ScorpionCell,Europeans,UnitedStates,Pacific,Guild1,Guild2,Guild3
-Primary=OmniWeapon
-ElitePrimary=OmniWeapon
-BuildLimit=65535
-Cost=50
+; [ARMR]
+; Prerequisite=BARRACKS
+; Owner=USSR,Latin,Chinese,PsiCorps,Headquaters,ScorpionCell,Europeans,UnitedStates,Pacific,Guild1,Guild2,Guild3
+; Primary=OmniWeapon
+; ElitePrimary=OmniWeapon
+; BuildLimit=65535
+; Cost=50
 
 [OmniWeapon]
 ROF=5
