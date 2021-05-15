@@ -4,12 +4,13 @@ base code.ini
 
 .\Tweak Module\back warp.ini
 .\Tweak Module\force shield.ini
-.\Tweak Module\gear change.ini
 .\Tweak Module\lightning rod.ini
 .\Tweak Module\repair drone.ini
+.\Tweak Module\elite reserve.ini
 .\Tweak Module\zephyrobot.ini
 .\Custom Units\super battleship.ini
 .\Custom Units\survival hero tweak.ini
+
 
 -o
 Test Mode.ini

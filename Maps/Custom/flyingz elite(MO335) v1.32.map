@@ -817,13 +817,13 @@ Versus.f_shrike=100%
 [InfantryTypes]
 59724=LIBRAN
 
-[InfernoRailgun2]
+[YuriMonolithShot]
 ROF=10
 
-[InfernoRailgun2E]
+[YuriMonolithShotE]
 ROF=10
 
-[InfernoRailgun2WH]
+[MonolithLaserWH]
 AnimList=PODRINGE
 
 [InstantShelterSpecial]
@@ -5670,7 +5670,7 @@ AffectsAllies=no
 2=HAHA I see the previous message, good luck with your minecraft map, Flying Z, by Whenson~
 
 [Basic]
-Name=Flying Z Elite(Mental Omega Version) v1.31
+Name=Flying Z Elite(Mental Omega Version) v1.32
 Percent=0
 Briefing=Modelled and adapted by [ISS]Eclipsa &[ISS]whenson. Add AI on location 4. No ConYard Start. Fixed for MO 3.3.5
 GameMode=Standard, Tech Share

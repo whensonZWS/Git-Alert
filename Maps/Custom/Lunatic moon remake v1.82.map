@@ -846,13 +846,13 @@ Versus.f_shrike=100%
 [InfantryTypes]
 59724=LIBRAN
 
-[InfernoRailgun2]
+[YuriMonolithShot]
 ROF=10
 
-[InfernoRailgun2E]
+[YuriMonolithShotE]
 ROF=10
 
-[InfernoRailgun2WH]
+[MonolithLaserWH]
 AnimList=PODRINGE
 
 [InstantShelterSpecial]
@@ -1558,6 +1558,7 @@ IsSelectableCombatant=yes
 Prerequisite.StolenTechs=4
 DeathWeaponDamageModifier=.15
 AllowedToStartInMultiplayer=no
+EMP.Threshold=no
 
 [STLN]
 Primary=PsychicDartsN
@@ -5258,7 +5259,7 @@ PercentAtMax=0.1
 AffectsAllies=no
 
 [Basic]
-Name=Lunatic Moon II(MO Version) v1.81 Test Branch
+Name=Lunatic Moon II(MO Version) v1.82
 Percent=0
 Briefing=Remake of Lunatic Moon II by FlyingZ (By [ISS]Eclipsa & [ISS]whenson), Place A.I. on location 4. No ConYard Start. Fixed for MO 3.3.5
 GameMode=Standard, Tech Share
@@ -5381,7 +5382,7 @@ EVA.Ready=EVA_ReinforcementsReady
 IsPowered=yes
 ShowTimer=yes
 SidebarPCX=siegicon.pcx
-RechargeTime=6
+RechargeTime=0.06
 SW.Animation=CHRONOTG
 Deliver.Types=PBEAM
 LineMultiplier=0
@@ -5392,6 +5393,7 @@ SW.AnimationHeight=1
 SW.CreateRadarEvent=no
 DisableableFromShell=no
 FlashSidebarTabFrames=0
+SW.AlwaysGranted=yes
 
 [ConfusionGasSpecial]
 Name=Confusion Gas

@@ -21,7 +21,20 @@ GapGenerator=no
 12407=SelfForceShieldSpecial7
 12408=SelfForceShieldSpecial8
 
+[SNIPE]
+Primary=AWP
+ElitePrimary=AWP
+Secondary=AWP2
+EliteSecondary=AWP2
 
+[AWP]
+ROF=1
+[AWP2]
+ROF=1
+
+[GAAPP]
+Power=500
+Spyable=yes
 
 [SelfForceShieldSpecial1]
 UIName=Name:ForceShield

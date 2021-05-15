@@ -7,7 +7,15 @@ Catalogue:
 			Force Shield
 			Zephyr Beacon
 			Hunter Seeker
+			Back Warp
 			
+			Warp Miner
+			Bloodhound
+			Airborne
+			Chrono Boost
+			Chrono Lift
+			Cryo Shot
+			Cryo Spear			
 		
 		Super Weapon:
 			Lightning Storm
@@ -18,27 +26,75 @@ Catalogue:
 			Child of Storm
 			Harrier
 			Black Eagle
-			
+				
 			
 	Soviet:
 		Support Power:
-			Instant Shelter
+			Gear Overcharge
 			Drakuv
 			Repair Drone
+			Elite Reserve
+			Wallbuster
 			Tank Drop
 			Terror Drop
-			Overcharge
 			Smoke Bomb
 			Flame Tower
-			Bike Ambush
-			Wallbuster
+			Overcharge
 			Irradiation
-			EMP Station
-			Gear Overcharge
+			EM Pulse
+			Instant Shelter
+			Bike Ambush
 			
 		Units:
-			foxtrot
+			Foxtrot
+		
+		Super Weapon:
+			Tatical Nuclear Station
+			Iron Curtain
+			Super Irradiation
+	
+	
+	Epsilon:
+		Support Power:
+			Regen Drugs
+			Wonder Drugs
+			Risen Monolith
+			Psychic Flash
+			Libra Clone
+			Magnetic Beam
+			Bloatick Trap
+			Toxic Strike
+			Hijackers
+			Barrier
+			Geneburst
+			Ruiner
 			
-	
-	
+		Units:
+			Dybbuk-A
+			
+	Foehn:
+		
+		Support Power:
+			Nanofiber Sync
+			Devour
+			Spin Blade
+			Chaos Touch
+			Blackout Missile
+			Signal Jammer
+			Mega Arena
+			Quetzal Shield
+			Harbinger
+			Knightfall
+			Nanocharge
+			Sweeper Drop
+			Boid Blitz
+			Golden Wind
+		
+		Structure:
+			Plasmarizer
+			
+		Super Weapon:
+			Chaos Gas
+			Great Tempest
+			Diver Seeker
 			
