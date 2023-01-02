@@ -2,15 +2,10 @@ Standard.ini
 base code.ini
 -demo
 
-.\Tweak Module\back warp.ini
-.\Tweak Module\force shield.ini
-.\Tweak Module\lightning rod.ini
-.\Tweak Module\repair drone.ini
-.\Tweak Module\elite reserve.ini
-.\Tweak Module\zephyrobot.ini
+
 .\Custom Units\super battleship.ini
 .\Custom Units\survival hero tweak.ini
-
+.\Custom Units\Star Railgunner.ini
 
 -o
 Test Mode.ini
